@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f8f8f8;
+/*    background: url(lizards.jpg); */
+}
+
+.header {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.title {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.email {
+    font-size: 15px;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.affiliation {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+hr {
+    width: 50%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+img.topright {
+    float: right;
+    margin: 10px;
+}
+
+.mainbody {
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.backlinks {
+    text-align: center;
+}
+
+.subheading1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+.subheading2 {
+    font-weight: bold;
+}
+
+.note {
+    font-size: small;
+    font-style: italic;
+}
+
+li {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+div#debug {
+    padding: 0;
+    margin: 0;
+    font-family: courier;
+}
+
+div#debug pre {
+    margin: 0;
+    padding: 0;
+}
